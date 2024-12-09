@@ -1,0 +1,25 @@
+CMakeFiles/blink.dir/uart_irq/ring_buffer.c.obj: \
+ E:\program_files\metropolia_file\2nd\Embedded_Systems_Programming\assignment\final\uart_irq\ring_buffer.c \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\stdlib.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\machine\ieeefp.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\_ansi.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\newlib.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\_newlib_version.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\config.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\features.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\lib\gcc\arm-none-eabi\10.3.1\include\stddef.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\reent.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\_ansi.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\_types.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\machine\_types.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\machine\_default_types.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\lock.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\cdefs.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\machine\stdlib.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\alloca.h \
+ E:\program_files\metropolia_file\2nd\Embedded_Systems_Programming\assignment\final\uart_irq\ring_buffer.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\lib\gcc\arm-none-eabi\10.3.1\include\stdint.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\stdint.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\_intsup.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\arm-none-eabi\include\sys\_stdint.h \
+ e:\program\pico-sdk-v1.5.0\gcc-arm-none-eabi\lib\gcc\arm-none-eabi\10.3.1\include\stdbool.h
