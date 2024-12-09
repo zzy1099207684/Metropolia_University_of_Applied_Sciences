@@ -1,0 +1,3 @@
+E:/program_files/metropolia_file/2nd/finished/C Programming in IoT Devices/assignment/cmake-build-debug/CMakeFiles/assignment.dir
+E:/program_files/metropolia_file/2nd/finished/C Programming in IoT Devices/assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/program_files/metropolia_file/2nd/finished/C Programming in IoT Devices/assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+  0b101
+0b1111
+  0b001010
+hello world
+0b1100123
+0b
+  0b00000001
+   0b1000000000000000
+invalid_data
+0b10012invalid
