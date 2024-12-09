@@ -1,0 +1,1 @@
+cmd='E:/program/CLion/bin/cmake/win/x64/bin/cmake.exe;-DCMAKE_MAKE_PROGRAM:FILEPATH=E:/program/CLion/bin/mingw/bin/mingw32-make.exe;-GMinGW Makefiles;-C<TMP_DIR>/PioasmBuild-cache-$<CONFIG>.cmake;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

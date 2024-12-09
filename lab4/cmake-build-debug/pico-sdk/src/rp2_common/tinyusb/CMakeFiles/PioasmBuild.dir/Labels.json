@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab4/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

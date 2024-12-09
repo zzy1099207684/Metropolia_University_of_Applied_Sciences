@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+E:/program_files/metropolia_file/2nd/Embedded_Systems_Programming/assignment/lab5_2/cmake-build-debug/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
